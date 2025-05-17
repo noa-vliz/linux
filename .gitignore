@@ -173,9 +173,6 @@ x509.genkey
 # Kdevelop4
 *.kdev4
 
-# Clang's compilation database file
-compile_commands.json
-
 # Documentation toolchain
 sphinx_*/
 
